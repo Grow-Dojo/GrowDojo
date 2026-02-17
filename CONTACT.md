@@ -1,3 +1,4 @@
+<!-- doc ver 0.1.1 -->
 # Contact GrowDojo Devs
 
 >[!TIP]
@@ -10,6 +11,6 @@ The following methods of contact is listed from most frequently checked (left) t
 
 ## Choice of Contact Table
 
-## Choice of Community Yable
+## Choice of Community Table
 
 <!-- how to contact flowchart -->

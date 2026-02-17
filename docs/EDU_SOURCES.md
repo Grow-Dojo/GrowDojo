@@ -1,7 +1,8 @@
 # Educational Resources
-<!-- Doc Version 0.4.2
+<!-- Doc Version 0.5.2 alpha
 Contributors:
 @rhizosphere
+@seanmichaelstarr
 (leave your name here)
 New link = minor update 
 -->
@@ -21,6 +22,8 @@ New link = minor update
 💾 Data Download <br>
 📺 Video Based <br>
 🔊 Audio Based <br>
+📚 Online Course <br>
+📖 Book <br>
 **Difficulty Level** <br>
 🟩 Beginner <br>
 🟨 Intermediate <br>
@@ -53,5 +56,10 @@ New link = minor update
 
 ## ESP32
 <a href="https://www.luisllamas.es/en/esp8266-esp32-course/">ESP32 Course</a> by <a href="https://github.com/luisllamasbinaburo/"> luisllamasbinaburo</a> 
+<br>
+📄 🟩🟨🟧
+
+## Basic Electronics 
+<a href="https://electronicsclub.info/" target="Electronics Club">Electronics Club</a>
 <br>
 📄 🟩🟨🟧

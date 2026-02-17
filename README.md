@@ -1,7 +1,8 @@
-<img src="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/img/growdojoheader-alpha-one.jpg" />
-<!--- readme.md version 1.2.3
+<img src="https://github.com/Grow-Dojo/GrowDojo/blob/main/img/growdojoheader-alpha-one.jpg" />
+<!--- readme.md version 1.7.14
 File contributors:
 • @Rhizosphere
+• @sean-michael-starr
 ToDo:
 - Add Mastodon address
 - Add steemit and Odysee 
@@ -20,6 +21,11 @@ ToDo:
 - GLOSSARY.md
 --->
 
+# Introduction 
+
+>[!IMPORTANT]
+>Until repository management has been adequately delegated it is recommended to use the @Rhizomatic-Systems <a href="https://github.com/Rhizomatic-Systems/GrowDojo">Grow Dojo</a> repository for more up-to-date information. Forking can be done from either repo. 
+
 An opensource modular and scaleable agricultural environment monitor and controller for any crop, any where in the world, using any cultivation method such as:
   - hydroponics
   - traditional
@@ -27,19 +33,33 @@ An opensource modular and scaleable agricultural environment monitor and control
   - aeroponics
   - greenhouse
   - closed environment
-## Project aims: 
+## Project aims: 🎯
 - To be approachable for people new to art and science of devops and/or plant production by providing educational resources.
 - Able to be replicated using easily accessible parts.
 - Level of complexity to be determined by each maker.
 - Provide a part of the technical solution to the politically exasperated problem of food scarcity.
+## Concept 💡
+<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/GrowDojo/refs/heads/main/img/GrowDojoStackConcept-v1.png" alt="The GrowDojo Stack" />
+<!--
+Stack Ideas:
+GrowDojo Master
+GrowDojo Station
+GrowDojo Terminal
+GrowDojo Rhizome
+GrowDojo Hub
+GrowKnowD from GrowNode - suggestions to operators
+GD System
+GD Mainframe
+-->
 
-## The GrowDojo Ethos
+## The GrowDojo Ethos 🧬
 These are some of the guiding philosophies that shape how the project develops and its function:
 - Dentralization
 - Peer-based-production
 - Privacy and Anonymity
 - Trustless 
 - Apolitical
+- Right-to-Repair
 <p align="center">
 <a href="https://oshwa.org/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Open-source-hardware-logo.svg" alt="open source hardware" height="100" width="95" /></a> 
@@ -48,33 +68,35 @@ These are some of the guiding philosophies that shape how the project develops a
 <img src="https://www.codeisfreespeech.com/cfs-banner.jpg" alt="code is free speech" /></a>
 </p>
 
-## Tools Used / Contributions 
+# Tools Used / Contributions 🛠
+<!-- ## GD Contribution Roadmap -->
+
 <!-- to split into sections of their own
-### Hardware
+### Hardware ⚒️
 <p align="center">
 
 
-### Systems
+### Systems 🖥
 <p align="center">
 
 
-### Languages In Use / To Be Used
+### Languages In Use / To Be Used 📀
 <p align="center">
 
 
-### Languages To Be Explored
+### Languages To Be Explored 💿
 <p align="center">
 
 
-### Protocols
+### Protocols 🕸 
 <p align="center">
 
 
-### Software (recommended)
+### Software (recommended) 🆔️ 
 <p align="center">
 
 --> 
-### Hardware, Languages, Protocols, and Programs
+## Hardware, Languages, Protocols, and Programs ⚒️
 <p align="center"> 
 <a href="https://www.arduino.cc/" target="arduino"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/></a> <a href="https://reticulum.network/"> <img src="https://raw.githubusercontent.com/markqvist/Reticulum/master/docs/source/graphics/rns_logo_512.png" alt="reticulum network" width="40" height="40"/></a> <a href="https://xmpp.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/XMPP_logo.svg" alt="xmpp" width="40" height="40"/></a> <a href="https://www.gnu.org/software/bash/manual/bash.html"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a> <a href="https://grafana.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/></a> <a href="https://www.gimp.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gimp/gimp-original.svg" alt="GIMPshop" width="40" height="40"/></a> <a href="https://go.dev/"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go lang" width="40" height="40"/></a> <a href="https://inkscape.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="inkscape" width="40" height="40"/></a> <a href="http://oracle.com/java/"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/LoRa"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LoRaWAN_Logo.svg/330px-LoRaWAN_Logo.svg.png"
 alt="lorawan" height="40" width="128" /></a> <a href="https://www.github.com/nostr"> <img src="https://static.wikia.nocookie.net/logopedia/images/b/bc/103332273.jpg/revision/latest?cb=20221218195746"
@@ -104,35 +126,59 @@ Potentials:
 - ParaSail
 - Blockchain
 
-### Contributions Beyond Code
+### Hardware Considerations/Requirements 🪛
+Design is based on the idea that a Raspberry Pi (model pending) is the "biggest" system needed for operators, yet will still be compatible with x86 and other larger systems, with Linux being the operating system.  
+
+For Developer-Operators there is obviously the need to connect various Arduino and Raspberry Pi models - micro controllers and Single Board Computers (SBCs) using whatever system and programs that you are familiar/comfortable using.
+> [!TIP]
+> Those new to DevOps can find recommendations within the EDUCATION section of the docs. 
+### Contributions Beyond Code 👥️
 There are many ways to contribute to The GrowDojo Project that do not require the use of code. 
-#### Beta Testers (Operators)
+#### Beta Testers (Operators) 🌱
 Volunteer to become a beta tester. This requires you to be active in the community to give feedback and suggestions.
-#### Artists
+#### Artists 🖌
 Any form of art related to the project in any media, such as drawing, technical drawing, logos & icons, photos, video, etc...
-#### Miscellaneous 
+#### Miscellaneous 🗃
 Technical documents, document translations, community moderators and admins, researchers, etc...
-#### Financial Contributors 
+#### Financial Contributors 💸
 Please see <a href="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/TIPJAR.md">
 TIPJAR.md</a> for Contribution methods. Financial contributions allow for:
 - More dev experimentation and testing
 - Providing small financial rewards to contributors
 - Running the GrowDojo infrastructure (paying for services such as hosting)
 <!-- accepted currency icon row 20px centered paragraph -->
-## CONTACT
+# CONTACT 🗣
 
-> [!TIP]
-> Refer to CONTACT.md to choose the best method of communication for your current situation.
+> [!IMPORTANT]
+> Refer to CONTACT.md to choose the best method of communication for your current situation and the most recent information regarding forms of contact.
 <p align="center">
 <a href="https://t.me/+5Gd7C8qUyopiODZl">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/250px-Telegram_logo_icon.svg.png" alt="telegram private group" height="40" height="40" /></a> <a href="https://signal.group/#CjQKIDWFOswC735NhHa1whL1n3SeXfQye-yq7zc8QB3KiE0yEhD_vrtx-nuUizoeONbRRhDm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Signal_ultramarine_icon.svg/1920px-Signal_ultramarine_icon.svg.png" alt="signal group" width="40" height="40" /></a> <a href="mailto:growdojo@protonmail.com">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ProtonMail_icon.svg/106px-ProtonMail_icon.svg.png"
 alt="proton mail" height="40" width="49" /></a> <a href="https://matrix.to/#/@growdojo:matrix.org">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Element_%28software%29_logo.svg"
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Element_%28software%29_logo_%282020%29.svg/54px-Element_%28software%29_logo_%282020%29.svg.png"
 alt="Element/Matrix Public Group" height="40" width="40" /></a> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" alt="keybase" height="40" width="40" /> </p>
 
-## BEYOND GITHUB
-### Social Media
+# PGP Key
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZaH6xxYJKwYBBAHaRw8BAQdAhkTvgYsXdf4gjOuu/EUcViWtA6wjzUUAnWcc
+JMLUYHS0Ikdyb3dEb2pvIDxncm93ZG9qb0Bwcm90b25tYWlsLmNvbT6ImQQTFgoA
+QRYhBLLGJ7zXMzBohdqFKMSBQi10W8KHBQJlofrHAhsjBQkFlZp5BQsJCAcCAiIC
+BhUKCQgLAgQWAgMBAh4HAheAAAoJEMSBQi10W8KHBbwA/i1HaOJzJ4j2bD8ul7CB
+Gg0pgnLTcom/JvimsXeSlxm8AQDavgdKQeYi4YXiDMtbSlgWsNHJHkssyZwLWBoO
+1retD7g4BGWh+scSCisGAQQBl1UBBQEBB0DjEz/2jEi85HVMoSn1AqFZd9xTA1Xe
+qtWqY6Y58ue2AwMBCAeIfgQYFgoAJhYhBLLGJ7zXMzBohdqFKMSBQi10W8KHBQJl
+ofrHAhsMBQkFlZp5AAoJEMSBQi10W8KHhdwA/2Zwna1k09AzYuscb0n1cC98qp/e
+KhwxRYljIHX1OLbdAP9kymWIx5QRL3GH4GXzdqIxX+/tdHOeehO4d/Z8q9X7Cw==
+=ueOI
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+# BEYOND GITHUB ➡️
+## Social Media 📢
 <a href="https://www.instagram.com/grow.dojo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/250px-Instagram_logo_2022.svg.png" alt="instagram profile" width="40" height="width" /></a> <a href="https://www.threads.net/@grow.dojo">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Threads_%28app%29.svg/250px-Threads_%28app%29.svg.png"
 alt="threads profile" height="40" width="40" /></a> <a href="https://x.com/TheGrowDojo">
@@ -158,7 +204,7 @@ alt="
 - Odysse
 - Steemit -->
 
-### Version Control Systems
+## Version Control Systems 🪖
 
 > [!IMPORTANT]
 > Currently evaluating version control systems that align with true FOSS ethos. Self hosting is inevitable. 
@@ -172,20 +218,22 @@ alt="codeburg" height="40" width="178" /></a> <br>
 alt="forejo self hosted" height="40" width="107" /></a> 
 <br>
 - dev.io
-### Community
+## Community 💬
 <!-- add tip and link to Community.md -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Element_%28software%29_logo.svg" alt="Element" height="40" width="40" /> <img src="https://simplex.chat/img/new/logo-symbol-light.svg" alt="simplex chat" height="40" width="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Session_App_Logo.svg/250px-Session_App_Logo.svg.png" alt="session" height="40" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Element_%28software%29_logo_%282020%29.svg/54px-Element_%28software%29_logo_%282020%29.svg.png" alt="Element" height="40" width="40" /> <img src="https://simplex.chat/img/new/logo-symbol-light.svg" alt="simplex chat" height="40" width="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Session_App_Logo.svg/250px-Session_App_Logo.svg.png" alt="session" height="40" width="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" alt="keybase" height="40" width="40" /> <a href="https://t.me/+5Gd7C8qUyopiODZl">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/250px-Telegram_logo_icon.svg.png" alt="telegram" height="40" height="40" /></a> <a href="https://signal.group/#CjQKIDWFOswC735NhHa1whL1n3SeXfQye-yq7zc8QB3KiE0yEhD_vrtx-nuUizoeONbRRhDm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Signal_ultramarine_icon.svg/1920px-Signal_ultramarine_icon.svg.png" alt="signal group" width="40" height="40" /></a>
-
-- Briar - contact
-- Wire - contact / community 
-- Discord?
-- Surespot - contact 
-- IRC - contact - community 
-- XMPP - contact
-
-## EDUCATION SOURCES
+<!--
+### Coming Soon 🔜
+- [ ] Briar - contact
+- [ ] Wire - contact / community 
+- [ ] Discord
+- [ ] Surespot - contact 
+- [ ] IRC - contact - community 
+- [ ] XMPP - contact
+-->
+### Forums 🌐
+# EDUCATION SOURCES 📚
 This project will try as much as possible to cater to those new to contributing to FOSS projects. The <a href="https://github.com/RhizoSphere/GrowDojo/blob/seed01-1/docs/EDU_SOURCES.md">
 EDU_SOURCES.md</a> file contains a list of resources ranging from tech to Horticulture. 
 - Arduino, Raspberry Pi, ESP32
@@ -195,5 +243,5 @@ EDU_SOURCES.md</a> file contains a list of resources ranging from tech to Hortic
 - Coding Books 📚 
 - Coding Sites 🌐
 
-### The GrowDojo Student Project
+## The GrowDojo Student Project 🧠
 A seperate repository that aims to provide cross-curriculum STEAM lessons for students from homeschool to public school. If you are a teacher and/or parent please check GrowDojo Students repo for more information.
